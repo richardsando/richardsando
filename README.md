@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @richardsando
+- 👋 Hi, I’m Richard Sando
 
-      I'm a fullstack developer based in Melbourne, Australia. 
+    I'm a fullstack developer based in Melbourne, Australia. 
 
 - 👀 I’m interested in ...
 
