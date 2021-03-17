@@ -3,7 +3,7 @@
 I'm a fullstack developer based in Melbourne, Australia. 
 
 - 👀 I’m interested in ...
-- 
+
 Creating websites and applications with a focus on user experience and design.
 - 🌱 I’m currently learning ...
 All things React! (Typescript, NextJs, Graphql)
